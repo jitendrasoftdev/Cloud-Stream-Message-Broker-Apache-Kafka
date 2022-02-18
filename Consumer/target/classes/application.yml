@@ -1,0 +1,9 @@
+## YAML Template....
+
+
+spring:
+    cloud:
+        stream:
+            bindings:
+                input:
+                    destination: jsdjava
